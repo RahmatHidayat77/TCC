@@ -1,4 +1,4 @@
-# TCC - Infrastructure as a Service
+# TCC - Infrastructure as a Code
 
 Infrastructure as code (IaC) adalah proses mengelola infrastructure (networks, virtual machines, load balancers, connection topology, dan sebagainya) melalui code/script, kita tidak perlu konfigurasi melalui perangkat keras atau aplikasi yang interaktif.
 Kita cukup menuliskan konfigurasi yang kita inginkan melalui suatu script. Lalu script tadi tinggal kita jalankan melalui terminal. Jadi jika ada aplikasi yang ingin kita deploy, kita bisa mempersiapkan environment yang dibutuhkan melalui Infrastructure as code. Jika ingin merubah environment yang sudah ada, maka tinggal menggantinya melalui script tadi lalu di running ulang.<br>
